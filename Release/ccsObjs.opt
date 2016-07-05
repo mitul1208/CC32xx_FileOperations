@@ -1,0 +1,1 @@
+"./button_if.obj" "./gpio_if.obj" "./main.obj" "./network_common.obj" "./pinmux.obj" "./startup_ccs.obj" "../cc3200v1p32.cmd" -l"libc.a" -lsimplelink.a -ldriverlib.a 
