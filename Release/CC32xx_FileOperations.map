@@ -1,7 +1,7 @@
 ******************************************************************************
                   TI ARM Linker PC v5.2.7                      
 ******************************************************************************
->> Linked Tue Jul 05 18:09:41 2016
+>> Linked Tue Jul 05 18:25:20 2016
 
 OUTPUT FILE NAME:   <CC32xx_FileOperations.out>
 ENTRY POINT SYMBOL: "_c_int00"  address: 2000b08d

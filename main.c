@@ -20,7 +20,7 @@
 #endif
 #include "pinmux.h"
 #include "button_if.h"
-#define APPLICATION_NAME        "Hw4_2"
+#define APPLICATION_NAME        "File_Operations_ExampleUsage"
 #define APPLICATION_VERSION     "1.1.1"
 
 char* DeviceFileName = "Hw4.txt";
