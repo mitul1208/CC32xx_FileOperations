@@ -15,6 +15,6 @@ Following will be the operations when you run the application.
 4) like volume control it will turn on/off the LEDs.  
 5) when user will restart the application. LED will be set to previous state.  
 
-Simplelink API of creating file have bug that it is not returning negative value in if file is already there and instead its replacing it with new file resulting into loss of old file and its content.  
+**Simplelink API of creating file have bug that it is not returning negative value in if file is already there and instead its replacing it with new file resulting into loss of old file and its content.**  
 
 This program remove this vulnerability by utilizing other APIs.
